@@ -6,6 +6,19 @@ Live Demo: [**View on Vercel**](#) *https://a-dmybrand-task-b.vercel.app/*
 
 ---
 
+## Features Overview
+
+- **Hero Section with Logo Reveal** – Animated cinematic logo intro with gradient effects.  
+- **Custom Cursor** – Magic  cursor with star trail animation for enhanced interactivity.  
+- **Particles Background** – Animated particle field for a futuristic aesthetic.  
+- **Smooth Navigation** – Navbar links scroll smoothly to sections (Features, Pricing, Testimonials, FAQ).  
+- **Responsive Design** – Fully responsive layout optimized for desktop and mobile.  
+- **Testimonials Carousel** – Auto-playing, animated testimonials with pause/play controls.  
+- **Dark Theme Only** – Fixed dark mode with neon gradients and glassmorphism effects.  
+- **Performance Optimized** – Lazy loading, smooth animations, and minimal bundle size.  
+
+---
+
 ## Features  
 
 - **Hero Section with Logo Reveal**  
